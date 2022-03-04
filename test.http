@@ -1,0 +1,1 @@
+GET https://api.openweathermap.org/data/2.5/weather?q=Flushing&units=metric&appid=b8b8977c910f3c36b59db1484a547bc4
